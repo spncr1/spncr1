@@ -1,6 +1,5 @@
-# Spencer Fisher
-
-Software Engineering Student (UTS) | Backend Systems & API Development
+<h1 align="center">Spencer Fisher</h1> 
+<p align="center"> Software Engineering Student (UTS) | Backend & Web Development </p>
 
 ---
 
