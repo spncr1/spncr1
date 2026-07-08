@@ -1,49 +1,55 @@
-<h1 align="center">Spencer Fisher</h1>
-<p align="center">
-Software Engineering Student (UTS) | Backend & Web Development
-</p>
+# Spencer Fisher
+
+Software Engineering Student (UTS) | Backend Systems & API Development
 
 ---
 
 ## About Me
 
-I’m a final-year Software Engineering student at the University of Technology Sydney with a strong interest in backend systems and web application development.
+I'm a final-year Software Engineering student at the University of Technology Sydney with a strong interest in backend development, scalable systems, and API engineering.
 
-I enjoy building practical software that solves real problems, with experience across Python, Java, and modern web technologies.
+I enjoy building practical software that transforms real-world data into meaningful user experiences, with experience across Python, Java, SQL, Node.js, and modern web technologies.
 
-Currently focused on developing full-stack applications and strengthening my backend engineering skills.
+Currently focused on backend systems, REST API development, database design, and full-stack application architecture while continuing to strengthen production-level engineering skills.
 
 ---
 
 ## Current Work
 
-🔧 **Student Hub / Productivity Platform**  
-A web application designed to help university students manage coursework, deadlines, and academic workflows.
+### ⚽ Atmos FC – Football Fan Sentiment Analysis Platform
 
-🤖 **NOVIS – Personal AI Assistant**  
-A modular Python-based assistant exploring voice interaction, automation workflows, and AI integrations.
+A full-stack web application that analyses post-match football fan sentiment by aggregating YouTube comments into interactive match reaction summaries. Built with a Python FastAPI backend integrating Football-Data.org and YouTube Data APIs.
+
+### 📚 Nexa – Student Productivity Dashboard
+
+A student workload management platform designed to reduce reliance on multiple disconnected productivity tools. Built using Node.js, Express, and PostgreSQL with authentication, persistent multi-user storage, and REST API architecture.
 
 ---
 
 ## Skills
 
-**Languages**  
+### Languages
+
 Python • Java • C# • C++ • SQL • JavaScript
 
-**Web**  
-HTML • CSS
+### Web Development
 
-**Frameworks & Databases**  
-Flask • MongoDB • SQLite
+HTML • CSS • JavaScript
 
-**Tools**  
+### Frameworks & Databases
+
+FastAPI • Express (Node.js) • PostgreSQL • MongoDB • SQLite
+
+### Tools
+
 Git • GitHub • Jira • Confluence
 
 ---
 
 ## Connect
 
-LinkedIn: https://linkedin.com/in/spencer-fisher  
-GitHub: https://github.com/spncr1  
-Email: spencerflorackfisher@gmail.com
+**LinkedIn:** <PRIVATE_URL>
 
+**GitHub:** https://github.com/spncr1
+
+**Email:** spencerflorackfisher@gmail.com
